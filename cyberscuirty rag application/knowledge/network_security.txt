@@ -1,0 +1,7 @@
+Network security protects systems and network infrastructure from unauthorized access and malicious activity.
+
+Firewalls filter network traffic according to security rules.
+
+Intrusion Detection Systems monitor network activity and can generate alerts when suspicious behavior is detected.
+
+Network segmentation can reduce the impact of a compromised system.

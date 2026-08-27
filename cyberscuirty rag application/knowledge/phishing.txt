@@ -1,0 +1,5 @@
+Phishing is a social engineering technique used to deceive users into revealing sensitive information.
+
+Common phishing indicators include suspicious URLs, unexpected attachments, urgent messages, fake login pages, and requests for passwords or financial information.
+
+Users should verify the sender, inspect URLs carefully, avoid suspicious attachments, and enable multi-factor authentication.
