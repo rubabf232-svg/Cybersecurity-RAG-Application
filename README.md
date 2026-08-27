@@ -158,20 +158,5 @@ Fatima Hussain
 
 Python • Cybersecurity • Problem Solving • Continuous Learning
 
-📄 License
-
-MIT License
 
 
----
-
-## 💾 GitHub Commit Message
-
-PowerShell mein:
-
-```powershell
-git add .
-git commit -m "Add cybersecurity RAG assistant"
-git push
-Commit message:
-Add cybersecurity RAG assistant
